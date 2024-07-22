@@ -8,7 +8,7 @@ document.body.addEventListener('click', function() {
 /*--------------------
 Vars
 --------------------*/
-let progress = 10
+let progress = 1
 let startX = 0
 let active = 0
 let isDown = false
